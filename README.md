@@ -13,3 +13,9 @@ Asegúrate de tener instalado Python en tu sistema. Además, puedes utilizar `pi
 
 ```bash
 pip install -r requirements.txt
+```
+
+# IMPORTANTE
+En el archivo config.py se debe reemplazar la ruta del archivo Access
+
+
